@@ -1,0 +1,21 @@
+.header{
+    height: 80px;
+    line-height: 80px;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.img{
+    width: 35%;
+    margin-right: auto;
+}
+
+.mainbody{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color:darkslategrey
+}
+.footer{
+    color: green;
+}
